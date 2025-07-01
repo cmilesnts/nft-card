@@ -20,10 +20,8 @@ O objetivo principal foi praticar:
 
 ## 🖥️ Visual
 
-![Preview do projeto](https://github.com/cmilesnts/nft-card/assets/preview-image-aqui.png)
+![Captura de tela 2025-06-30 224603](https://github.com/user-attachments/assets/d17c100a-4a2b-473c-aafb-3072f9f51afd)
 
-> *![Captura de tela 2025-06-30 224603](https://github.com/user-attachments/assets/d17c100a-4a2b-473c-aafb-3072f9f51afd)
-*
 
 ## 🚀 Tecnologias usadas
 
